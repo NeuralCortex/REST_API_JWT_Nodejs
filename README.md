@@ -11,9 +11,10 @@ I decided to comment the source files rather then describe the methods in the re
 To use the app, you need to execute following steps:
 1. Install Node.js
 2. Go to the project's main directory.
-3. Type `npm install` - Wait for Completion
-4. Type `nodemon server` - To start the REST API server
-5. Type `npm start` - To start the demo (client)
+3. Generate public.key and private.key via [Online RSA Key Generator](https://travistidwell.com/jsencrypt/demo/)
+4. Type `npm install` - Wait for Completion
+5. Type `nodemon server` - To start the REST API server
+6. Type `npm start` - To start the demo (client)
 
 ## Technology used
 
